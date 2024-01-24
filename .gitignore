@@ -1,0 +1,8 @@
+# files ignored
+
+settings.json
+
+
+# folders ignored
+
+/.vscode/
